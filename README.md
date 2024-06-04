@@ -1,0 +1,10 @@
+This Repo will contain content related to Data Science and Data Engineering
+
+ETL
+SQL
+PYTHON
+SPARK
+DATABRICKS
+MEDALLION ARCHITECTURE
+MULTIHOP ARCGITECTURE
+AUTOLOADER
